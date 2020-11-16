@@ -14,7 +14,7 @@ Hi, I'm Michael H , one of college student in Indonesia 🚀 Currently , i am le
 **Talking about Me :**
 
 - 👨🏽‍💻 I’m currently studying at college in Indonesia
-- 🌱 I’m currently using C++ Programming language to study how to make a program (will learn new more programming language!)
+- 🌱 I’m currently using C++ Programming language to learn how to make a program (will learn new more programming language!)
 - 📫 You can reach me at : michaelxu17@gmail.com || [YouTube Channel](http://www.youtube.com/michaelxu/)
 
 **Programming Languages and Few Tools That I Use:**  
