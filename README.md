@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hellooo 👋🏽, I'm [Michael H!](https://github.com/michaelh17) 
 
-<!--
-**michaelh17/michaelh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/michaelxu_/">
+  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi, I'm Michael H , one of college student in Indonesia 🚀 Currently , i am learning how to code with various programming language ! 👨🏽‍💻
+  
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently studying at college in Indonesia
+- 🌱 I’m currently using C++ Programming language to study how to make a program (will learn new more programming language!)
+- 📫 You can reach me at : michaelxu17@gmail.com || [YouTube Channel](http://www.youtube.com/michaelxu/)
+
+**Programming Languages and Few Tools That I Use:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+
+
+![Michael H Github Stats](https://github-readme-stats.vercel.app/api?username=michaelh17&show_icons=true&hide_border=true)
