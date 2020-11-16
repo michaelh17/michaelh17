@@ -20,6 +20,7 @@ Hi, I'm Michael H , one of college student in Indonesia 🚀 Currently , i am le
 **Programming Languages and Few Tools That I Use:**  
 <code><img height="20" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/9f9d124d411068111c0c4707b245a3461c5c1171f7310b802c1be1353c68c93d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6368726f6d652e737667"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
