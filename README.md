@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Michael H , one of college student in Indonesia 🚀 Currently , i am learning how to code with various programming language ! 👨🏽‍💻
+Hi, I'm Michael H , college student in Indonesia 🚀 Currently , i am learning how to code with various programming language ! 👨🏽‍💻
   
 **Talking about Me :**
 
