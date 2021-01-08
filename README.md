@@ -9,13 +9,13 @@
 <br />
 <br />
 
-Hi, I'm Michael H , a college student in Indonesia 🚀 Currently , i am learning how to code with various programming language ! 👨🏽‍💻
+Hi, I'm Michael  ,  college student in Indonesia 🚀 Currently , i am learning how to code with various programming language ! 👨🏽‍💻
   
-**Talking about Me :**
+**About Me :**
 
 - 👨🏽‍💻 I’m currently studying at college in Indonesia
 - 🌱 I’m currently using C++ Programming language to learn how to make a program (will learn new more programming language!)
-- 📫 You can reach me at : michaelxu17@gmail.com || [YouTube Channel](http://www.youtube.com/michaelxu/)
+- 📫 You can reach me at : michaelxu17@gmail.com 
 
 **Programming Languages and Few Tools That I Use:**  
 <code><img height="20" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"></code>
@@ -28,4 +28,5 @@ Hi, I'm Michael H , a college student in Indonesia 🚀 Currently , i am learnin
 
 
 ![Michael H github stats](https://github-readme-stats.vercel.app/api?username=michaelh17&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelh17&layout=compact)](https://github.com/michaelh17/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelh17&layout=compact&theme=dracula)](https://github.com/michaelh17/github-readme-stats)
