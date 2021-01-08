@@ -27,5 +27,5 @@ Hi, I'm Michael H , a college student in Indonesia 🚀 Currently , i am learnin
 
 
 
-
-![Michael H Github Stats](https://github-readme-stats.vercel.app/api?username=michaelh17&show_icons=true&hide_border=true)
+![Michael H github stats](https://github-readme-stats.vercel.app/api?username=michaelh17&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelh17&layout=compact)](https://github.com/michaelh17/github-readme-stats)
