@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Michael  ,  college student in Indonesia 🚀 Currently , i am learning how to code with various programming language ! 👨🏽‍💻
+Hi, I'm Michael  , a college student in Indonesia 🚀 Currently , i am learning how to code with various programming language ! 👨🏽‍💻
   
 **About Me :**
 
@@ -29,4 +29,4 @@ Hi, I'm Michael  ,  college student in Indonesia 🚀 Currently , i am learning 
 
 ![Michael H github stats](https://github-readme-stats.vercel.app/api?username=michaelh17&theme=dracula&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelh17&layout=compact&theme=dracula)](https://github.com/michaelh17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelh17&layout=compact&theme=dracula)](https://github.com/michaelh17/readme)
