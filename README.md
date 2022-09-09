@@ -5,7 +5,6 @@
 </a>
 
 <br />
-<br />
 
 Hi, I'm Michael  , Currently , i am learning how to code with various programming language ! 👨🏽‍💻
   
