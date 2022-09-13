@@ -16,4 +16,4 @@ Hi, I'm Michael  , Currently , i am learning how to code with various programmin
 
 ![Michael H github stats](https://github-readme-stats.vercel.app/api?username=michaelh17&theme=dracula&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelh17&layout=compact&theme=dracula)](https://github.com/michaelh17)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelh17&layout=compact&theme=radical)](https://github.com/michaelh17)
