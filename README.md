@@ -7,6 +7,3 @@
 <br />
 
 Hi, I'm Michael  , Currently , i am learning how to code with various programming language ! 👨🏽‍💻
-
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelh17&layout=compact&theme=radical)](https://github.com/michaelh17)
